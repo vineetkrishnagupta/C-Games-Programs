@@ -4,7 +4,7 @@
 		 PROGRAMING LANGUAGE::C++.                                             
 		 MAKEING BY " VINEET KRISHNA GUPTA ".                                  
 		 IN THIS PROGRAM  USE GRAHICS AND HEADER FILR USE <GRAPHIC.H>.  
-		 TOTAL LINE IN THIS PROGRAM:-"164". 
+		 TOTAL LINE IN THIS PROGRAM:-"163". 
          */                                        
 #include<stdio.h>
 #include<conio.h>
