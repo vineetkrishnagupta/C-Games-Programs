@@ -1,12 +1,10 @@
-
-
          /*
-         ABOUT THE PROGRAM AND PROGRAMAR:
-         THIS IS A GAME PRPGRAM.                                               
-         PROGRAMING LANGUAGE::C++.                                             
-         MAKEING BY " VINEET KRISHNA GUPTA ".                                  
-         IN THIS PROGRAM  USE GRAHICS AND HEADER FILR USE <GRAPHIC.H>.  
-         TOTAL LINE IN THIS PROGRAM:-"160". 
+		 ABOUT THE PROGRAM AND PROGRAMAR:
+		 THIS IS A GAME PRPGRAM.                                               
+		 PROGRAMING LANGUAGE::C++.                                             
+		 MAKEING BY " VINEET KRISHNA GUPTA ".                                  
+		 IN THIS PROGRAM  USE GRAHICS AND HEADER FILR USE <GRAPHIC.H>.  
+		 TOTAL LINE IN THIS PROGRAM:-"164". 
          */                                        
 #include<stdio.h>
 #include<conio.h>
